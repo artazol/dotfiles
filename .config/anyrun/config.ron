@@ -46,6 +46,5 @@ Config(
     "libdictionary.so",
     "librink.so",
     "libwebsearch.so",
-    "librandr.so",
   ],
 )
